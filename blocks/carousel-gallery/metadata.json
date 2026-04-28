@@ -1,0 +1,31 @@
+{
+  "variantName": "carousel-gallery",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2026-04-28T05:40:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.asianpaints.com/",
+    "originPage": "Asian Paints homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "color-gallery",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "color swatch + options",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": ["color gallery showcases and swatch browsing"],
+    "notSuitableFor": ["text-heavy content carousels"]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-28T05:40:00.000Z"
+  }
+}

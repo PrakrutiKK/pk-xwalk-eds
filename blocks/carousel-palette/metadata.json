@@ -1,0 +1,31 @@
+{
+  "variantName": "carousel-palette",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2026-04-28T05:40:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.asianpaints.com/",
+    "originPage": "Asian Paints homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "purpose": "color-tool",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "palette + room visualization",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": ["color palette tools and room visualization carousels"],
+    "notSuitableFor": ["product listing or text-heavy carousels"]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-28T05:40:00.000Z"
+  }
+}

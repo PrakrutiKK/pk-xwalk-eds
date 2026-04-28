@@ -1,0 +1,31 @@
+{
+  "variantName": "columns-video",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-04-28T05:40:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.asianpaints.com/",
+    "originPage": "Asian Paints homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "video-testimonials",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "video embeds side-by-side",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": ["video testimonials and side-by-side video embeds"],
+    "notSuitableFor": ["image galleries or text-heavy column layouts"]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-28T05:40:00.000Z"
+  }
+}

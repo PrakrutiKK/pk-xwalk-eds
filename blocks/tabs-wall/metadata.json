@@ -1,0 +1,31 @@
+{
+  "variantName": "tabs-wall",
+  "baseBlock": "tabs",
+  "version": "1.0.0",
+  "created": "2026-04-28T05:40:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.asianpaints.com/",
+    "originPage": "Asian Paints homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "product-category-tabs",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "tab labels + image grids",
+    "buttonCount": 0,
+    "imageCount": 4
+  },
+  "reuseGuidance": {
+    "suitableFor": ["product category tabs with image grids"],
+    "notSuitableFor": ["single content panels or text-only tabs"]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-28T05:40:00.000Z"
+  }
+}
