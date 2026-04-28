@@ -1,0 +1,31 @@
+{
+  "variantName": "cards-service",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-04-28T05:40:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.asianpaints.com/",
+    "originPage": "Asian Paints homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "service-icons",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "icon + label + link",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": ["service listing grids with icons and labels"],
+    "notSuitableFor": ["large image galleries or product showcases"]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-28T05:40:00.000Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "variantName": "hero-store",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-04-28T05:40:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.asianpaints.com/",
+    "originPage": "Asian Paints homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "store-locator-banner",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "full-width image + CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": ["store locator banners and full-width hero images with CTAs"],
+    "notSuitableFor": ["multi-slide carousels or text-heavy sections"]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-28T05:40:00.000Z"
+  }
+}

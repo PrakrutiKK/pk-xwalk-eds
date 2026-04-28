@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.asianpaints.com/",
+  "path": "index",
+  "timestamp": "2026-04-28T06:21:43.279Z",
+  "title": "Trusted Wall Painting, Home Painting & Waterproofing in India - Asian Paints",
+  "template": "homepage",
+  "blocks": [
+    "carousel-banner",
+    "cards-service",
+    "carousel-gallery",
+    "carousel-gallery",
+    "form",
+    "carousel-product",
+    "tabs-wall",
+    "carousel-palette",
+    "carousel-collection",
+    "cards-interior",
+    "cards-interior",
+    "columns-video",
+    "carousel-shorts",
+    "hero-store"
+  ]
+}

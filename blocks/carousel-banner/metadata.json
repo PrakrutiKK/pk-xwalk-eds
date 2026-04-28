@@ -1,0 +1,31 @@
+{
+  "variantName": "carousel-banner",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2026-04-28T05:40:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.asianpaints.com/",
+    "originPage": "Asian Paints homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "homepage-hero",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + overlay text + CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": ["homepage hero banners with overlay text"],
+    "notSuitableFor": ["small thumbnail carousels"]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-04-28T05:40:00.000Z"
+  }
+}
